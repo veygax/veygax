@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VeygaX</h1>
-<h3 align="center">A hobby programmer.</h3>
+<h3 align="center">A hobbyist programmer.</h3>
 
 <p align="left"> <a href="https://twitter.com/veygax" target="blank"><img src="https://img.shields.io/twitter/follow/veygax?logo=twitter&style=for-the-badge" alt="veygax" /></a> </p>
 
