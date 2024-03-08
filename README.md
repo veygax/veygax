@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Untitled Game Jam Project**
 
-- 🌱 I’m currently learning **C#, C++**
+- 🌱 I’m currently learning more about **C#, C++**
 
 - 👯 I’m looking to collaborate on **Unreal Engine Projects**
 
-- 🤝 I’m looking for help with **C#, Unreal Engine**
+- 🤝 I’m looking for help with **Unreal Engine**
 
 - 💬 Ask me about **Lua, C++ or Python (Beginner on C#)**
 
