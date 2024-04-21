@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Lua, C++ or Python (Beginner on C#)**
 
-- 📫 How to reach me **veygax@skiff.com**
+- 📫 How to reach me **veyga@checkpoint.llc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
