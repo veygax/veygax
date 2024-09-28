@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **veyga@checkpoint.llc**
 
-![Steam Card](https://card.yuy1n.io/card/76561199197283635/dark,en,badge,group)
+<p align="left"> <a href="https://twitter.com/veygax" target="blank"><img width="400" height="140" src="https://card.yuy1n.io/card/76561199197283635/dark,en,badge,group"></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
