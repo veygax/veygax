@@ -9,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Unreal Engine Projects**
 
-- 🤝 I’m looking for help with **Unreal Engine**
-
-- 💬 Ask me about **Lua, C++ or Python (Beginner on C#)**
+- 💬 Ask me about **Lua, C++ or Python**
 
 - 📫 How to reach me **veyga@checkpoint.llc**
 
