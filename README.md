@@ -39,6 +39,8 @@ src="https://img.shields.io/twitch/status/veygaxstreams?logo=twitchsx&style=for-
 
 ### Support Me
 
+<ul style="list-style-type: none; margin: 0;">
+
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/veygax"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
