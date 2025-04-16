@@ -8,7 +8,7 @@ I've had a long passion for coding and technology. This profile is just where I 
 
 * 🌍  I'm based in Ireland
 * 🖥️  See my portfolio at [My Website](http://veygax.dev)
-* ✉️  You can contact me at [veyga@checkpoint.llc](mailto:veyga@checkpoint.llc)
+* ✉️  You can contact me at [veyga@veygax.dev](mailto:veyga@veygax.dev)
 * 🚀  I'm currently working on [UEditor (UnlockedEditor)](http://ueditor.lol)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on interesting projects related to gaming/game engines.
