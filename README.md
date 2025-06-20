@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/veygax?logo=twitter&style=for-the-bad
 /></a><a href="https://www.twitch.tv/veygaxstreams" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/veygaxstreams?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+### Skills (this is a big ridiculous, copied everything that looked familiar)
 
 
 <p align="left">
